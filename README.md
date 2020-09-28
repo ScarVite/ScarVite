@@ -1,5 +1,5 @@
 ### Hi there, Im ScarVite, a Self Thought Developer
-[![Discord Status](https://img.shields.io/endpoint?url=https://api.scarvite.de/dc/StatusBadge/141218912934166528&logo=discord&logoColor=white&color=43B581)](https://discord.gg/XKVX2Uy) 
+[![Discord Status](https://img.shields.io/endpoint?url=https://api.scarvite.de/dc/StatusBadge/141218912934166528&logo=discord&logoColor=white)](https://discord.gg/XKVX2Uy) 
 
 #### Languages i know:
 
