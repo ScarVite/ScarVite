@@ -1,4 +1,4 @@
-### Hi there, Im ScarVite, a Self Thought Developer
+### Hi there, Im ScarVite
 [![Discord Status](https://img.shields.io/endpoint?url=https://api.scarvite.de/dc/StatusBadge/141218912934166528&logo=discord&logoColor=white)](https://discord.gg/XKVX2Uy) 
 
 #### Languages i know:
