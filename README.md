@@ -13,6 +13,4 @@
 <code><img height="20" src="https://avatars2.githubusercontent.com/u/23360933?s=200&v=4"></code>
 
 #### My Github Stats:
-[![ScarVite's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ScarVite&layout=compact&hide=html&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 [![ScarVite's github stats](https://github-readme-stats.vercel.app/api?username=ScarVite&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
