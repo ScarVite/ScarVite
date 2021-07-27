@@ -17,5 +17,3 @@
 
 #### My Github Stats:
 [![ScarVite's github stats](https://github-readme-stats.vercel.app/api?username=ScarVite&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<div><img src="https://github-profile-trophy.vercel.app/?username=ScarVite&theme=dracula" width="1200"></div></p>
