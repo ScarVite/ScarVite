@@ -1,6 +1,8 @@
 ### Hi there, Im ScarVite
 [![Discord Status](https://img.shields.io/endpoint?url=https://api.scarvite.de/dc/StatusBadge/141218912934166528&logo=discord&logoColor=white)](https://discord.gg/XKVX2Uy) 
 
+> Due to my Workplace using selfhosted gitlab, i do not have many commits on here!
+
 #### Languages i know:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
