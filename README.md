@@ -1,7 +1,7 @@
 ### Hi there, Im ScarVite
 [![Discord Status](https://img.shields.io/endpoint?url=https://api.scarvite.de/dc/StatusBadge/141218912934166528&logo=discord&logoColor=white)](https://discord.gg/XKVX2Uy) 
 
-> Due to my Workplace using selfhosted bitbucket, i do not have many commits on here!
+> Due to my Workplace using selfhosted bitbucket, i do not have many commits on here! <br>
 > Also this hasn't been updated in a very long time -> doesn't reflect current state
 
 #### Languages i know:
